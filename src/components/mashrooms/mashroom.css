@@ -1,0 +1,9 @@
+.main{
+    background-image: url(./image.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.main2{
+    background: linear-gradient(10deg,#a159ffc2,#a159ff00);
+}
