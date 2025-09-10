@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../header/logo.svg'
+import logo from '../header/Logo.svg'
 import { PiDiscordLogo } from "react-icons/pi";
 import { PiYoutubeLogo } from "react-icons/pi";
 import { RiTwitterLine } from "react-icons/ri";
